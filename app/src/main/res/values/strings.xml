@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Petits comptes entre ennemis</string>
+    <!-- Event list activity -->
+    <string name="title_activity_event_list">Petits comptes entre ennemis</string>
+    <string name="action_create_event">Créer un nouvel événement</string>
+    <!-- Event details activity -->
+    <string name="title_activity_event_details">Détails de l\'événement</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>
